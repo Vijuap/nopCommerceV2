@@ -1,0 +1,283 @@
+2022-09-02 01:13:08,742 - eCommerce -INFO - User provided
+2022-09-02 01:13:08,832 - eCommerce -INFO - Password provided
+2022-09-02 01:29:30,029 - eCommerce -INFO - User provided
+2022-09-02 01:29:30,102 - eCommerce -INFO - Password provided
+2022-09-02 02:22:06,563 - eCommerce -INFO - User provided
+2022-09-02 02:22:06,635 - eCommerce -INFO - Password provided
+2022-09-02 16:48:06,259 - eCommerce -INFO - User provided
+2022-09-02 16:48:06,418 - eCommerce -INFO - Password provided
+2022-09-02 16:51:01,880 - eCommerce -INFO - User provided
+2022-09-02 16:51:01,998 - eCommerce -INFO - Password provided
+2022-09-02 16:53:22,547 - eCommerce -INFO - User provided
+2022-09-02 16:53:22,677 - eCommerce -INFO - Password provided
+2022-09-02 16:59:54,067 - eCommerce -INFO - User provided
+2022-09-02 16:59:54,085 - eCommerce -INFO - Password provided
+2022-09-02 17:03:17,944 - eCommerce -INFO - User provided
+2022-09-02 17:03:18,093 - eCommerce -INFO - Password provided
+2022-09-02 17:59:55,660 - eCommerce -INFO - User provided
+2022-09-02 17:59:55,836 - eCommerce -INFO - Password provided
+2022-09-23 08:56:41,711 - eCommerce -INFO - User provided
+2022-09-23 08:56:41,924 - eCommerce -INFO - Password provided
+2022-09-23 10:12:33,852 - eCommerce -INFO - User provided
+2022-09-23 10:12:34,001 - eCommerce -INFO - Password provided
+2022-09-23 10:17:58,011 - eCommerce -INFO - User provided
+2022-09-23 10:17:58,183 - eCommerce -INFO - Password provided
+2022-09-24 16:12:21,026 - eCommerce -INFO - Url is Opened
+2022-09-24 16:12:21,279 - eCommerce -INFO - User provided
+2022-09-24 16:12:21,462 - eCommerce -INFO - Password provided
+2022-09-24 16:15:49,646 - eCommerce -INFO - Url is Opened
+2022-09-24 16:15:50,009 - eCommerce -INFO - User provided
+2022-09-24 16:15:50,216 - eCommerce -INFO - Password provided
+2022-09-24 16:19:55,032 - eCommerce -INFO - Url is Opened
+2022-09-24 16:19:55,419 - eCommerce -INFO - User provided
+2022-09-24 16:19:55,563 - eCommerce -INFO - Password provided
+2022-09-24 16:19:57,962 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:20:00,828 - eCommerce -INFO - Login Passed
+2022-09-24 16:23:41,463 - eCommerce -INFO - Url is Opened
+2022-09-24 16:23:41,907 - eCommerce -INFO - User provided
+2022-09-24 16:23:42,055 - eCommerce -INFO - Password provided
+2022-09-24 16:23:44,239 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:23:46,536 - eCommerce -INFO - Login Failed
+2022-09-24 16:39:58,473 - eCommerce -INFO - URL is opened
+2022-09-24 16:39:58,873 - eCommerce -INFO - User provided
+2022-09-24 16:39:59,049 - eCommerce -INFO - Password provided
+2022-09-24 16:40:01,123 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:40:04,550 - eCommerce -INFO - URL is opened
+2022-09-24 16:40:04,859 - eCommerce -INFO - User provided
+2022-09-24 16:40:05,006 - eCommerce -INFO - Password provided
+2022-09-24 16:40:05,345 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:40:07,364 - eCommerce -INFO - Login Failed
+2022-09-24 16:40:07,937 - eCommerce -INFO - URL is opened
+2022-09-24 16:40:08,222 - eCommerce -INFO - User provided
+2022-09-24 16:40:08,372 - eCommerce -INFO - Password provided
+2022-09-24 16:40:08,730 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:40:10,745 - eCommerce -INFO - Login Failed
+2022-09-24 16:40:11,313 - eCommerce -INFO - URL is opened
+2022-09-24 16:40:11,661 - eCommerce -INFO - User provided
+2022-09-24 16:40:11,843 - eCommerce -INFO - Password provided
+2022-09-24 16:40:12,176 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:40:14,184 - eCommerce -INFO - Login Failed
+2022-09-24 16:48:02,457 - eCommerce -INFO - URL OPened
+2022-09-24 16:48:03,101 - eCommerce -INFO - User provided
+2022-09-24 16:48:03,356 - eCommerce -INFO - Password provided
+2022-09-24 16:48:08,173 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:48:11,277 - eCommerce -INFO - Login Passed
+2022-09-24 16:48:17,605 - eCommerce -INFO - URL is opened
+2022-09-24 16:48:17,876 - eCommerce -INFO - User provided
+2022-09-24 16:48:18,084 - eCommerce -INFO - Password provided
+2022-09-24 16:48:20,436 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:48:24,065 - eCommerce -INFO - URL is opened
+2022-09-24 16:48:24,285 - eCommerce -INFO - User provided
+2022-09-24 16:48:24,473 - eCommerce -INFO - Password provided
+2022-09-24 16:48:24,827 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:48:26,849 - eCommerce -INFO - Login Failed
+2022-09-24 16:48:27,461 - eCommerce -INFO - URL is opened
+2022-09-24 16:48:27,669 - eCommerce -INFO - User provided
+2022-09-24 16:48:27,881 - eCommerce -INFO - Password provided
+2022-09-24 16:48:28,405 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:48:30,473 - eCommerce -INFO - Login Failed
+2022-09-24 16:48:31,140 - eCommerce -INFO - URL is opened
+2022-09-24 16:48:31,520 - eCommerce -INFO - User provided
+2022-09-24 16:48:31,746 - eCommerce -INFO - Password provided
+2022-09-24 16:48:32,209 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:48:34,230 - eCommerce -INFO - Login Failed
+2022-09-24 16:49:56,058 - eCommerce -INFO - URL OPened
+2022-09-24 16:49:56,683 - eCommerce -INFO - User provided
+2022-09-24 16:49:56,908 - eCommerce -INFO - Password provided
+2022-09-24 16:50:03,914 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:50:06,256 - eCommerce -INFO - Login Failed
+2022-09-24 16:50:12,814 - eCommerce -INFO - URL is opened
+2022-09-24 16:50:13,171 - eCommerce -INFO - User provided
+2022-09-24 16:50:13,350 - eCommerce -INFO - Password provided
+2022-09-24 16:50:17,402 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:50:20,945 - eCommerce -INFO - URL is opened
+2022-09-24 16:50:21,326 - eCommerce -INFO - User provided
+2022-09-24 16:50:21,513 - eCommerce -INFO - Password provided
+2022-09-24 16:50:21,857 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:50:23,873 - eCommerce -INFO - Login Failed
+2022-09-24 16:50:24,408 - eCommerce -INFO - URL is opened
+2022-09-24 16:50:24,745 - eCommerce -INFO - User provided
+2022-09-24 16:50:24,923 - eCommerce -INFO - Password provided
+2022-09-24 16:50:25,338 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:50:27,362 - eCommerce -INFO - Login Failed
+2022-09-24 16:50:28,079 - eCommerce -INFO - URL is opened
+2022-09-24 16:50:28,485 - eCommerce -INFO - User provided
+2022-09-24 16:50:28,662 - eCommerce -INFO - Password provided
+2022-09-24 16:50:29,046 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:50:31,062 - eCommerce -INFO - Login Failed
+2022-09-24 16:55:52,486 - eCommerce -INFO - URL OPened
+2022-09-24 16:55:53,132 - eCommerce -INFO - User provided
+2022-09-24 16:55:53,317 - eCommerce -INFO - Password provided
+2022-09-24 16:55:55,590 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:55:58,572 - eCommerce -INFO - Login Passed
+2022-09-24 16:56:05,956 - eCommerce -INFO - URL is opened
+2022-09-24 16:56:06,298 - eCommerce -INFO - User provided
+2022-09-24 16:56:06,487 - eCommerce -INFO - Password provided
+2022-09-24 16:56:09,565 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:56:13,064 - eCommerce -INFO - URL is opened
+2022-09-24 16:56:13,307 - eCommerce -INFO - User provided
+2022-09-24 16:56:13,486 - eCommerce -INFO - Password provided
+2022-09-24 16:56:14,051 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:56:16,063 - eCommerce -INFO - Login Failed
+2022-09-24 16:56:16,649 - eCommerce -INFO - URL is opened
+2022-09-24 16:56:17,046 - eCommerce -INFO - User provided
+2022-09-24 16:56:17,213 - eCommerce -INFO - Password provided
+2022-09-24 16:56:17,589 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:56:19,603 - eCommerce -INFO - Login Failed
+2022-09-24 16:56:20,325 - eCommerce -INFO - URL is opened
+2022-09-24 16:56:20,647 - eCommerce -INFO - User provided
+2022-09-24 16:56:20,807 - eCommerce -INFO - Password provided
+2022-09-24 16:56:21,208 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:56:23,228 - eCommerce -INFO - Login Failed
+2022-09-24 16:58:24,763 - eCommerce -INFO - URL OPened
+2022-09-24 16:58:25,470 - eCommerce -INFO - User provided
+2022-09-24 16:58:25,665 - eCommerce -INFO - Password provided
+2022-09-24 16:58:28,534 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:58:31,368 - eCommerce -INFO - Login Passed
+2022-09-24 16:58:37,784 - eCommerce -INFO - URL is opened
+2022-09-24 16:58:37,985 - eCommerce -INFO - User provided
+2022-09-24 16:58:38,135 - eCommerce -INFO - Password provided
+2022-09-24 16:58:41,614 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:58:45,122 - eCommerce -INFO - URL is opened
+2022-09-24 16:58:45,293 - eCommerce -INFO - User provided
+2022-09-24 16:58:45,449 - eCommerce -INFO - Password provided
+2022-09-24 16:58:45,761 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:58:47,774 - eCommerce -INFO - Login Failed
+2022-09-24 16:58:48,391 - eCommerce -INFO - URL is opened
+2022-09-24 16:58:48,609 - eCommerce -INFO - User provided
+2022-09-24 16:58:48,788 - eCommerce -INFO - Password provided
+2022-09-24 16:58:49,098 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:58:51,122 - eCommerce -INFO - Login Failed
+2022-09-24 16:58:51,639 - eCommerce -INFO - URL is opened
+2022-09-24 16:58:51,807 - eCommerce -INFO - User provided
+2022-09-24 16:58:51,939 - eCommerce -INFO - Password provided
+2022-09-24 16:58:52,223 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:58:54,234 - eCommerce -INFO - Login Failed
+2022-09-24 16:59:22,998 - eCommerce -INFO - URL OPened
+2022-09-24 16:59:23,463 - eCommerce -INFO - User provided
+2022-09-24 16:59:23,614 - eCommerce -INFO - Password provided
+2022-09-24 16:59:26,224 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:59:28,548 - eCommerce -INFO - Login Failed
+2022-09-24 16:59:35,869 - eCommerce -INFO - URL is opened
+2022-09-24 16:59:36,115 - eCommerce -INFO - User provided
+2022-09-24 16:59:36,291 - eCommerce -INFO - Password provided
+2022-09-24 16:59:38,677 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:59:42,058 - eCommerce -INFO - URL is opened
+2022-09-24 16:59:42,312 - eCommerce -INFO - User provided
+2022-09-24 16:59:42,493 - eCommerce -INFO - Password provided
+2022-09-24 16:59:42,828 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:59:44,847 - eCommerce -INFO - Login Failed
+2022-09-24 16:59:45,363 - eCommerce -INFO - URL is opened
+2022-09-24 16:59:45,559 - eCommerce -INFO - User provided
+2022-09-24 16:59:45,732 - eCommerce -INFO - Password provided
+2022-09-24 16:59:46,056 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:59:48,083 - eCommerce -INFO - Login Failed
+2022-09-24 16:59:48,841 - eCommerce -INFO - URL is opened
+2022-09-24 16:59:49,052 - eCommerce -INFO - User provided
+2022-09-24 16:59:49,238 - eCommerce -INFO - Password provided
+2022-09-24 16:59:49,618 - eCommerce -INFO - Login in Clicked
+2022-09-24 16:59:51,638 - eCommerce -INFO - Login Failed
+2022-09-24 17:06:06,313 - eCommerce -INFO - URL OPened
+2022-09-24 17:06:06,883 - eCommerce -INFO - User provided
+2022-09-24 17:06:07,052 - eCommerce -INFO - Password provided
+2022-09-24 17:06:10,727 - eCommerce -INFO - Login in Clicked
+2022-09-24 17:06:13,705 - eCommerce -INFO - Login Passed
+2022-09-24 17:06:18,970 - eCommerce -INFO - URL is opened
+2022-09-24 17:06:19,280 - eCommerce -INFO - User provided
+2022-09-24 17:06:19,407 - eCommerce -INFO - Password provided
+2022-09-24 17:06:45,563 - eCommerce -INFO - Login in Clicked
+2022-09-24 17:06:49,163 - eCommerce -INFO - URL is opened
+2022-09-24 17:06:49,410 - eCommerce -INFO - User provided
+2022-09-24 17:06:49,608 - eCommerce -INFO - Password provided
+2022-09-24 17:06:49,971 - eCommerce -INFO - Login in Clicked
+2022-09-24 17:06:51,984 - eCommerce -INFO - Login Failed
+2022-09-24 17:06:52,338 - eCommerce -INFO - Screenshot captured
+2022-09-24 17:06:53,267 - eCommerce -INFO - URL is opened
+2022-09-24 17:06:53,476 - eCommerce -INFO - User provided
+2022-09-24 17:06:53,672 - eCommerce -INFO - Password provided
+2022-09-24 17:06:54,051 - eCommerce -INFO - Login in Clicked
+2022-09-24 17:06:56,071 - eCommerce -INFO - Login Failed
+2022-09-24 17:06:56,409 - eCommerce -INFO - Screenshot captured
+2022-09-24 17:06:57,098 - eCommerce -INFO - URL is opened
+2022-09-24 17:06:57,294 - eCommerce -INFO - User provided
+2022-09-24 17:06:57,447 - eCommerce -INFO - Password provided
+2022-09-24 17:06:57,891 - eCommerce -INFO - Login in Clicked
+2022-09-24 17:06:59,909 - eCommerce -INFO - Login Failed
+2022-09-24 17:07:00,276 - eCommerce -INFO - Screenshot captured
+2022-09-24 17:11:09,485 - eCommerce -INFO - URL OPened
+2022-09-24 17:11:10,048 - eCommerce -INFO - User provided
+2022-09-24 17:11:10,254 - eCommerce -INFO - Password provided
+2022-09-24 17:11:13,138 - eCommerce -INFO - Login in Clicked
+2022-09-24 17:11:16,064 - eCommerce -INFO - Login Passed
+2022-09-24 17:11:42,637 - eCommerce -INFO - URL is opened
+2022-09-24 17:11:42,944 - eCommerce -INFO - User provided
+2022-09-24 17:11:43,121 - eCommerce -INFO - Password provided
+2022-09-24 17:11:45,740 - eCommerce -INFO - Login in Clicked
+2022-09-24 17:11:49,284 - eCommerce -INFO - URL is opened
+2022-09-24 17:11:49,608 - eCommerce -INFO - User provided
+2022-09-24 17:11:49,816 - eCommerce -INFO - Password provided
+2022-09-24 17:11:50,222 - eCommerce -INFO - Login in Clicked
+2022-09-24 17:11:52,249 - eCommerce -INFO - Login Failed
+2022-09-24 17:11:52,564 - eCommerce -INFO - Screenshot captured
+2022-09-24 17:11:53,155 - eCommerce -INFO - URL is opened
+2022-09-24 17:11:53,456 - eCommerce -INFO - User provided
+2022-09-24 17:11:53,706 - eCommerce -INFO - Password provided
+2022-09-24 17:11:54,075 - eCommerce -INFO - Login in Clicked
+2022-09-24 17:11:56,094 - eCommerce -INFO - Login Failed
+2022-09-24 17:11:56,402 - eCommerce -INFO - Screenshot captured
+2022-09-24 17:11:57,007 - eCommerce -INFO - URL is opened
+2022-09-24 17:11:57,287 - eCommerce -INFO - User provided
+2022-09-24 17:11:57,541 - eCommerce -INFO - Password provided
+2022-09-24 17:11:57,958 - eCommerce -INFO - Login in Clicked
+2022-09-24 17:11:59,982 - eCommerce -INFO - Login Failed
+2022-09-24 17:12:00,309 - eCommerce -INFO - Screenshot captured
+2022-09-24 18:25:01,223 - eCommerce -INFO - URL OPened
+2022-09-24 18:25:01,985 - eCommerce -INFO - User provided
+2022-09-24 18:25:02,205 - eCommerce -INFO - Password provided
+2022-09-24 18:25:05,022 - eCommerce -INFO - Login in Clicked
+2022-09-24 18:25:08,112 - eCommerce -INFO - Login Passed
+2022-09-24 18:25:17,680 - eCommerce -INFO - URL is opened
+2022-09-24 18:25:18,225 - eCommerce -INFO - User provided
+2022-09-24 18:25:18,738 - eCommerce -INFO - Password provided
+2022-09-24 18:25:22,310 - eCommerce -INFO - Login in Clicked
+2022-09-24 18:25:26,046 - eCommerce -INFO - URL is opened
+2022-09-24 18:25:26,444 - eCommerce -INFO - User provided
+2022-09-24 18:25:26,791 - eCommerce -INFO - Password provided
+2022-09-24 18:25:27,371 - eCommerce -INFO - Login in Clicked
+2022-09-24 18:25:29,384 - eCommerce -INFO - Login Failed
+2022-09-24 18:25:29,744 - eCommerce -INFO - Screenshot captured
+2022-09-24 18:25:30,667 - eCommerce -INFO - URL is opened
+2022-09-24 18:25:31,061 - eCommerce -INFO - User provided
+2022-09-24 18:25:31,376 - eCommerce -INFO - Password provided
+2022-09-24 18:25:31,952 - eCommerce -INFO - Login in Clicked
+2022-09-24 18:25:34,010 - eCommerce -INFO - Login Failed
+2022-09-24 18:25:34,559 - eCommerce -INFO - Screenshot captured
+2022-09-24 18:25:35,291 - eCommerce -INFO - URL is opened
+2022-09-24 18:25:35,534 - eCommerce -INFO - User provided
+2022-09-24 18:25:35,796 - eCommerce -INFO - Password provided
+2022-09-24 18:25:36,255 - eCommerce -INFO - Login in Clicked
+2022-09-24 18:25:38,281 - eCommerce -INFO - Login Failed
+2022-09-24 18:25:38,548 - eCommerce -INFO - Screenshot captured
+2022-09-24 18:25:44,235 - eCommerce -INFO - User name is provided
+2022-09-24 18:25:44,514 - eCommerce -INFO - password is provided
+2022-09-24 18:25:50,744 - eCommerce -INFO - providing customer details....
+2022-09-25 11:36:00,172 - eCommerce -INFO - URL OPened
+2022-09-25 11:36:00,479 - eCommerce -INFO - User provided
+2022-09-25 11:36:00,587 - eCommerce -INFO - Password provided
+2022-09-25 11:36:02,597 - eCommerce -INFO - Login in Clicked
+2022-09-25 11:36:05,408 - eCommerce -INFO - Login Passed
+2022-09-25 11:36:08,844 - eCommerce -INFO - User name is provided
+2022-09-25 11:36:08,970 - eCommerce -INFO - password is provided
+2022-09-25 11:36:10,956 - eCommerce -INFO - providing customer details....
+2022-09-25 11:47:33,892 - eCommerce -INFO - URL OPened
+2022-09-25 11:48:35,601 - eCommerce -INFO - User name is provided
+2022-09-25 11:48:35,761 - eCommerce -INFO - password is provided
+2022-09-25 11:48:47,625 - eCommerce -INFO - providing customer details....
+2022-09-25 11:55:50,620 - eCommerce -INFO - URL OPened
+2022-09-25 11:55:50,979 - eCommerce -INFO - User provided
+2022-09-25 11:55:51,080 - eCommerce -INFO - Password provided
+2022-09-25 11:55:53,110 - eCommerce -INFO - Login in Clicked
+2022-09-25 11:55:55,834 - eCommerce -INFO - Login Passed
+2022-09-25 11:55:59,095 - eCommerce -INFO - User name is provided
+2022-09-25 11:55:59,209 - eCommerce -INFO - password is provided
+2022-09-25 11:56:00,861 - eCommerce -INFO - providing customer details....
